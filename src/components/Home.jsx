@@ -5,7 +5,7 @@ const Home = () => {
     <section className="py-5 sm:py-10 px-5">
       <div className="flex flex-col md:flex-col lg:flex-row items-center w-full gap-5">
         <div>
-          <img src="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/38ef5148805911d88a8607377b6d9aad1e0401512f8118d9dbdf532c3bddaa89._RI_TTW_.jpg" alt="" className=" md:w-screen lg:w-full md:h-full lg:h-screen object-cover" />
+          <img src="https://www.hindustantimes.com/ht-img/img/2023/06/14/1600x900/demon_slayer_season_3_release_1681007034048_1686759381730.jpg" alt="" className=" md:w-screen lg:w-full md:h-full lg:h-screen object-cover" />
         </div>
         <div>
           <div className="flex flex-col gap-5">
