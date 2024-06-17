@@ -5,7 +5,7 @@ const Home = () => {
     <section className="py-5 sm:py-10 px-5">
       <div className="flex flex-col md:flex-col lg:flex-row items-center w-full gap-5">
         <div>
-          <img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/9b43334b43be72e49dad7ad6e188a7a5.jpe" alt="" className=" md:w-screen lg:w-full md:h-full lg:h-screen object-cover" />
+          <img src="https://m.economictimes.com/thumb/msid-105243336,width-1600,height-900,resizemode-4,imgsize-98472/spy-x-family-season-2-episode-7-unraveling-yors-mission-amidst-chaos-release-date-revealed.jpg" alt="" className=" md:w-screen lg:w-full md:h-full lg:h-screen object-cover" />
         </div>
         <div>
           <div className="flex flex-col gap-5">
